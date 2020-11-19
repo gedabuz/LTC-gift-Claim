@@ -9,7 +9,7 @@ Tool untuk memaksimalkan dalam proses claim LTC Gift Bot
 4. Setting Filter untuk AdBlock ==> Got To <a href="http://reek.github.io/anti-adblock-killer/#filterlist">Link</a> Kemudian klik Subscribe
 5. Scrypt LTC Gitf ==> <a href="https://github.com/gedabuz/LTC-gift-Claim/raw/main/ltc.gift.user.js">Install</a>
 6. Scrypt Captha Helper ==> <a href="https://greasyfork.org/scripts/18449-recaptcha-helper/code/reCAPTCHA%20Helper.user.js">Install</a>
-7. Extension Buster: Captcha Solver for Humans ==> <a href="https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkej">Install</a>
+7. Extension Buster: Captcha Solver for Humans ==> <a href="https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl">Install</a>
 
 
 # Fitur
