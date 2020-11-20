@@ -10,4 +10,4 @@
 // ==/UserScript==
 
 document.getElementsByClassName("btn-primary")[0].click()
-document.getElementsByClassName("btn-primary")[2].click()
+document.getElementsByClassName("btn-primary")[1].click()
