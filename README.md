@@ -8,7 +8,7 @@ Tool untuk memaksimalkan dalam proses claim LTC Gift Bot
 3. Scrypt AAK(Anti Adblock Killer) ==> <a href="https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js">Install</a>
 4. Setting Filter untuk AdBlock ==> Got To <a href="http://reek.github.io/anti-adblock-killer/#filterlist">Link</a> Kemudian klik Subscribe
 5. Scrypt LTC Gitf ==> <a href="https://github.com/gedabuz/LTC-gift-Claim/raw/main/ltc.gift.user.js">Install</a>
-6. Scrypt ReCaptcha Automatizer ==> <a href="https://greasyfork.org/en/scripts/381868-recaptcha-automatizer">Install</a>
+6. Scrypt ReCaptcha Automatizer ==> <a href="https://greasyfork.org/scripts/381868-recaptcha-automatizer/code/ReCaptcha%20Automatizer.user.js">Install</a>
 7. Extension Buster: Captcha Solver for Humans ==> <a href="https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl">Install</a>
 
 
